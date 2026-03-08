@@ -1,16 +1,16 @@
-# [LEGACY] CUT&RUN Scripts
+# [LEGACY] Conda Environment Setup
 
-This repository contains legacy scripts previously used in the Simoes-Costa Lab for CUT&RUN data processing and analysis.
+This repository contains a legacy conda environment configuration that was previously used in the Simoes-Costa Lab to standardize software environments across users.
 
-These scripts supported early CUT&RUN experiments in the lab and are preserved to maintain reproducibility of past analyses. The repository is no longer actively maintained and should not be used as the primary pipeline for new projects.
+It is preserved for reference but is no longer the recommended approach for setting up computational environments in the lab.
 
 ## Status
 
-⚠️ This repository is archived and retained for historical reference.
+⚠️ Archived repository maintained for historical reference.
 
-## Current Workflows
+## Current Infrastructure
 
-For current pipelines and actively maintained computational infrastructure, please refer to other repositories in the **Simoes-Costa-Lab** organization.
+Updated environment management strategies and computational infrastructure are maintained in the active repositories of the **Simoes-Costa-Lab** organization.
 
 ---
 
